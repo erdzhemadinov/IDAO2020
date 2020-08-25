@@ -1,2 +1,2 @@
 # IDAO2020
-Немного неопрятный код к IDAO 2020 (22 место)
+Немного неопрятный код к International Data Analysis Olympiad 2020 (22 место)
